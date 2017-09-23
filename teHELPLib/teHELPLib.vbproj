@@ -9,7 +9,7 @@
     </SchemaVersion>
     <ProjectGuid>{F695FC70-E767-417E-9A29-D839EFB8D033}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>ClassLibrary1</RootNamespace>
+    <RootNamespace>teHELPLib</RootNamespace>
     <AssemblyName>teHELPLib</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>Windows</MyType>

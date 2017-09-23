@@ -23,7 +23,7 @@ Public Class INIFile
                                 Else
                                     ReadOption = ReadOption + c1
                                     IsValue = False
-                                    If INIOption = INIOption Then
+                                    If INIOption = ReadOption Then
                                         c1 = Nothing
                                         IsValue = True
                                     End If
@@ -47,12 +47,16 @@ Public Class INIFile
                 Loop Until line Is Nothing
                 sr.Close()
 
-                Return response
+                'Return response
             End Using
+
+            ' Return response
         Catch ex As Exception
             'MsgBox("The file could not be read:")
             MsgBox(ex.Message)
+            ' Return response
         End Try
+        Return response
     End Function
 
 End Class
