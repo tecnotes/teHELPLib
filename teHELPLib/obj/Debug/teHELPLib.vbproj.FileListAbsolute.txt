@@ -1,0 +1,8 @@
+C:\_project\teHELPLib\teHELPLib\bin\Debug\teHELPLib.dll
+C:\_project\teHELPLib\teHELPLib\bin\Debug\teHELPLib.pdb
+C:\_project\teHELPLib\teHELPLib\bin\Debug\teHELPLib.xml
+C:\_project\teHELPLib\teHELPLib\obj\Debug\ClassLibrary1.Resources.resources
+C:\_project\teHELPLib\teHELPLib\obj\Debug\teHELPLib.vbproj.GenerateResource.Cache
+C:\_project\teHELPLib\teHELPLib\obj\Debug\teHELPLib.dll
+C:\_project\teHELPLib\teHELPLib\obj\Debug\teHELPLib.xml
+C:\_project\teHELPLib\teHELPLib\obj\Debug\teHELPLib.pdb
